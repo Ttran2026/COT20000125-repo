@@ -1,2 +1,2 @@
-This repo contains lab 4 and 5 code.
+This repo contains lab 4 and lab 5 code.
 
